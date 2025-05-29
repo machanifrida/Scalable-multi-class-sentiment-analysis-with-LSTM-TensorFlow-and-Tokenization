@@ -41,7 +41,7 @@ sentiment_full_batch.ipynb — Full-scale training on the complete 4M dataset us
 
 **🧪 Results**
 
-Achieved  **84% recall on Negative reviews** and **82% accuracy** on the validation set using 500k reviews.
+Achieved  **84% recall on Negative reviews** and **82% accuracy** on the validation set using 4 M reviews.
 
 Scaled to 4 million reviews with minimal memory overhead via batched processing.
 
